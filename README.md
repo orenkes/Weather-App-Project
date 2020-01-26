@@ -1,10 +1,11 @@
 ## Weather - App - Project ⛅
 
 
-`Note!` AccuWeathers API can only be made 50 calls per 24 hours (so sometimes the site data will not might not appear).
+`Note!` AccuWeathers API can only be made 50 calls per 24 hours (so sometimes the site data might not appear as expected).
 
 
 `My linkedin profile:`
+
 https://www.linkedin.com/in/oren-kesler-934245144/
 
 
