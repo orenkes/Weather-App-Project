@@ -1,4 +1,4 @@
-Weather - App - Project ⛅
+## Weather - App - Project ⛅
 
 
 Note! AccuWeathers API can only be made 50 calls per 24 hours (so sometimes the site data will not might not appear).
