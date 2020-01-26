@@ -1,10 +1,10 @@
 ## Weather - App - Project ⛅
 
 
-Note! AccuWeathers API can only be made 50 calls per 24 hours (so sometimes the site data will not might not appear).
+`Note!` AccuWeathers API can only be made 50 calls per 24 hours (so sometimes the site data will not might not appear).
 
 
-My linkedin profile: 
+`My linkedin profile:`
 https://www.linkedin.com/in/oren-kesler-934245144/
 
 
@@ -30,5 +30,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
